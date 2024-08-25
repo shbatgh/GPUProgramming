@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_indexing/480p30/partial_movie_files/CUDAIndexing/1901666433_1654465141_223132457.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_indexing/480p30/partial_movie_files/CUDAIndexing/1868307779_2919340033_3980522053.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_indexing/480p30/partial_movie_files/CUDAIndexing/1868307779_408562731_724856083.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_indexing/480p30/partial_movie_files/CUDAIndexing/1868307779_2919340033_3615540212.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_indexing/480p30/partial_movie_files/CUDAIndexing/1868307779_1740199627_2760035726.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_indexing/480p30/partial_movie_files/CUDAIndexing/1868307779_2919340033_791482521.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_indexing/480p30/partial_movie_files/CUDAIndexing/1868307779_2058171412_547550048.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_indexing/480p30/partial_movie_files/CUDAIndexing/1868307779_2919340033_2842602963.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_indexing/480p30/partial_movie_files/CUDAIndexing/1868307779_2366382156_3481683031.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_indexing/480p30/partial_movie_files/CUDAIndexing/1868307779_784179552_1596292705.mp4'

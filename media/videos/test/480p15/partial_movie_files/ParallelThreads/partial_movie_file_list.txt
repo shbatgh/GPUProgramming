@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/test/480p15/partial_movie_files/ParallelThreads/1185818338_3475662491_223132457.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/test/480p15/partial_movie_files/ParallelThreads/624642324_2919340033_3469344826.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/test/480p15/partial_movie_files/ParallelThreads/624642324_2658866837_3159539128.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/test/480p15/partial_movie_files/ParallelThreads/624642324_2919340033_2856768325.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/test/480p15/partial_movie_files/ParallelThreads/624642324_1584976498_1923430548.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/test/480p15/partial_movie_files/ParallelThreads/624642324_784179552_3649191702.mp4'

@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/t/1080p30/partial_movie_files/CPUvsGPU/3445125925_1885891165_223132457.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/t/1080p30/partial_movie_files/CPUvsGPU/1025971384_3966659900_2447053577.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/t/1080p30/partial_movie_files/CPUvsGPU/1025971384_3652763416_3611831286.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/t/1080p30/partial_movie_files/CPUvsGPU/1025971384_2919340033_2657275485.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/t/1080p30/partial_movie_files/CPUvsGPU/1025971384_1989267870_2255021115.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/t/1080p30/partial_movie_files/CPUvsGPU/1025971384_2581604688_3918502647.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/t/1080p30/partial_movie_files/CPUvsGPU/1025971384_1876524242_1286300924.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/t/1080p30/partial_movie_files/CPUvsGPU/1025971384_784179552_2882804248.mp4'

@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_programming/2160p60/partial_movie_files/ParallelThreads/1457378895_1879591866_223132457.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_programming/2160p60/partial_movie_files/ParallelThreads/1993220219_2919340033_882364763.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_programming/2160p60/partial_movie_files/ParallelThreads/1993220219_963452069_3159539128.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_programming/2160p60/partial_movie_files/ParallelThreads/1993220219_2919340033_2856768325.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_programming/2160p60/partial_movie_files/ParallelThreads/1993220219_1584976498_1923430548.mp4'
+file 'file:/Users/sam/dev/GPUProgramming/media/videos/cuda_programming/2160p60/partial_movie_files/ParallelThreads/1993220219_784179552_3649191702.mp4'
